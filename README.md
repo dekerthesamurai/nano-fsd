@@ -3,5 +3,5 @@ This repository is for my Nano Project on my subject FSD ( Full- Stack Developme
 
 
 ## Team Members :
-SWAPNIL PANT  
+SWAPNIL DAVE
 SWARA DAVE
